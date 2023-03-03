@@ -1,0 +1,11 @@
+# Documentação basica sobre o tema
+
+alguns pontos interessantes para ler
+
+* Observe
+* Singleton
+* Factory Mehots
+* Abstract Factory
+* Prototype
+
+Um link interessante: https://refactoring.guru/design-patterns/singleton
